@@ -1,87 +1,52 @@
 # 👋 Hi, I'm Mohammed Alojile  
-### Mobile Application Engineer • iOS (Swift) & Flutter • Full-Stack Developer
+### Mobile Application Engineer • iOS & Flutter • Full-Stack Developer
 
-I’m a mobile application engineer from **Libya**, specializing in **iOS development (SwiftUI & UIKit)** and **Flutter**.  
-I build scalable, production-ready applications with clean architecture, modern design patterns, and a focus on high performance and user experience.
+I’m a mobile application engineer from **Libya**, specializing in building modern, high-quality mobile applications using **Swift**, **SwiftUI**, and **Flutter**.  
+I focus on writing clean, scalable code and creating user experiences that are fast, intuitive, and reliable.
 
-Over the years I’ve developed apps for **government institutions**, **large corporations**, and **private businesses**, including the **National Oil Corporation (NOC)** and several national-scale platforms used by thousands of users.
-
----
-
-## 🔥 What I Do
-
-- 📱 **iOS Development** (Swift, SwiftUI, Combine)
-- 🚀 **Flutter Development** (Riverpod, Bloc, Clean Architecture)
-- 🛠 **Backend Development** with Laravel, Node.js & Livewire
-- 🗺 **Google Maps Integrations** (polygons, markers, drivers tracking)
-- 🔐 **Secure Authentication** & biometric login
-- 🧩 **Scalable App Architecture** (MVVM, Clean Architecture)
-- ❤️ Passionate about writing **maintainable**, **testable**, and **high-quality code**
+I have a strong background in mobile engineering, backend development, and software architecture — allowing me to design and build complete solutions from idea to deployment. I’m passionate about problem-solving, performance optimization, and building apps that genuinely help people.
 
 ---
 
-## 🏆 Highlighted Projects
+## 🌟 What I’m Good At
 
-### **📊 NOC DPP App (National Oil Corporation)**  
-A production analytics application used internally across Libya’s oil sector.  
-Features: secure authentication, analytics dashboards, scalable architecture.
-
-### **🎒 Panda LY – Parents Tracking App**  
-A real-time communication app between parents and schools with reports, messaging, and child management.
-
-### **🕌 إسناد – Donation Platform**  
-A donation app allowing users to donate water, Qurans, and books to mosques.  
-Built for both **iOS (SwiftUI)** and **Android (Kotlin)**.
-
-### **📅 Eboard – Meeting Scheduler**  
-A company meeting organizer with alerts, schedules, and role-based access.
+- 📱 **iOS Development** (Swift, SwiftUI, UIKit)  
+- 🚀 **Flutter Development** (Dart, State Management, Clean Architecture)  
+- 🧱 **App Architecture & Design Patterns** (MVVM, Modularization)  
+- 🛠 **Backend Development** (Laravel, Livewire, Node.js)  
+- 🗺 **Google Maps Integrations**  
+- 🔒 **Authentication & Security**  
+- 🔧 **Optimization, Debugging & Code Quality**
 
 ---
 
-## 🧰 Tech Stack
+## 🎯 What Defines My Work
 
-**Mobile:**  
-- Swift, SwiftUI, UIKit  
-- Flutter, Dart  
-- Kotlin (Android)
-
-**Backend & Web:**  
-- Laravel, Livewire, PHP  
-- Node.js, Express  
-- MySQL, MongoDB
-
-**Tools & DevOps:**  
-- Git & GitHub  
-- Firebase (Auth, Messaging, Firestore)  
-- Docker  
-- Google Cloud & Maps API  
-- REST APIs
+- I care about **clean code** and long-term maintainability.  
+- I build apps with a focus on **performance**, **UX**, and **scalability**.  
+- I enjoy working on both **frontend and backend**, giving me full control over systems.  
+- I love solving complex problems and turning ideas into fully functional products.  
+- I continuously learn new tools and technologies to stay ahead.
 
 ---
 
 ## 🌍 About Me
 
 - 🇱🇾 Based in Libya  
-- 📱 5+ years professional experience  
-- 👨‍💻 Full-stack capabilities  
-- 🧠 Focus on clean code, architecture, and user-centered design  
+- 🧠 5+ years of experience in software development  
+- 💼 Passionate about building impactful apps  
+- ☕ Coffee + coding is my daily routine  
 - 🌐 Portfolio: **https://mohammedalojile.com**
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: *Add your link*  
-- 🐦 X/Twitter: *Optional*  
-- 🌐 Website: **mohammedalojile.com**
-
----
-
-## ⚡ Fun Fact  
-I enjoy building meaningful apps for real users — especially apps that improve everyday life in Libya.
+- 🌐 Website: **mohammedalojile.com**  
+- 📧 Email: *your email here*  
+- 💼 LinkedIn: *your link here*
 
 ---
 
 Thanks for visiting my profile! 😊  
-Feel free to explore my repositories or reach out for collaboration.
+Feel free to follow, connect, or explore my work.
