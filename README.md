@@ -8,6 +8,8 @@ I have a strong background in mobile engineering, backend development, and softw
 
 ---
 
+[![committers.top badge](https://user-badge.committers.top/libya_private/USERNAME.svg)](https://user-badge.committers.top/libya_private/mohammednAlogly)
+
 ## 🌟 What I’m Good At
 
 - 📱 **iOS Development** (Swift, SwiftUI, UIKit)  
