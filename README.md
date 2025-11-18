@@ -1,4 +1,3 @@
-Here is your final **Markdown-formatted GitHub README**, clean, professional, and ready to paste directly into your GitHub profile:
 
 ---
 
