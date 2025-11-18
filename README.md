@@ -1,54 +1,61 @@
-# 👋 Hi, I'm Mohammed Alojile  
-### Mobile Application Engineer • iOS & Flutter • Full-Stack Developer
-
-I’m a mobile application engineer from **Libya**, specializing in building modern, high-quality mobile applications using **Swift**, **SwiftUI**, and **Flutter**.  
-I focus on writing clean, scalable code and creating user experiences that are fast, intuitive, and reliable.
-
-I have a strong background in mobile engineering, backend development, and software architecture — allowing me to design and build complete solutions from idea to deployment. I’m passionate about problem-solving, performance optimization, and building apps that genuinely help people.
+Here is your final **Markdown-formatted GitHub README**, clean, professional, and ready to paste directly into your GitHub profile:
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/libya_private/mohammednAlogly.svg)](https://user-badge.committers.top/libya_private/mohammednAlogly)
+# 👋 Hi, I'm Mohammed Alojile
 
-## 🌟 What I’m Good At
+### **Mobile Application Engineer • iOS & Flutter • Full-Stack Developer**
 
-- 📱 **iOS Development** (Swift, SwiftUI, UIKit)  
-- 🚀 **Flutter Development** (Dart, State Management, Clean Architecture)  
-- 🧱 **App Architecture & Design Patterns** (MVVM, Modularization)  
-- 🛠 **Backend Development** (Laravel, Livewire, Node.js)  
-- 🗺 **Google Maps Integrations**  
-- 🔒 **Authentication & Security**  
-- 🔧 **Optimization, Debugging & Code Quality**
+I’m a mobile application engineer from **Libya** who enjoys building well-crafted, reliable, and thoughtfully designed mobile applications. I work primarily with **Swift**, **SwiftUI**, and **Flutter**, focusing on delivering seamless user experiences backed by clean and scalable architecture.
+
+My work blends strong mobile engineering skills with backend expertise. I’m comfortable taking a product from concept to production — designing architectures, writing maintainable code, improving performance, and ensuring the final result feels polished and intuitive. I enjoy solving complex challenges and building software that truly makes an impact.
 
 ---
 
-## 🎯 What Defines My Work
+[![committers.top badge](https://user-badge.committers.top/libya/mohammednAlogly.svg)](https://user-badge.committers.top/libya/mohammednAlogly)
 
-- I care about **clean code** and long-term maintainability.  
-- I build apps with a focus on **performance**, **UX**, and **scalability**.  
-- I enjoy working on both **frontend and backend**, giving me full control over systems.  
-- I love solving complex problems and turning ideas into fully functional products.  
-- I continuously learn new tools and technologies to stay ahead.
+## 🌟 What I Do Well
+
+* 📱 **iOS Development** — Swift, SwiftUI, UIKit
+* 🚀 **Flutter Development** — Dart, State Management, Clean Architecture
+* 🧱 **Software Architecture** — MVVM, Modularization, scalable app structures
+* 🛠 **Backend Development** — Laravel, Livewire, Node.js
+* 🗺 **Maps & Location Services** — Google Maps, geolocation, calculations
+* 🔧 **Performance Optimization, Debugging & Code Quality**
 
 ---
 
-## 🌍 About Me
+## 🎯 My Engineering Approach
 
-- 🇱🇾 Based in Libya  
-- 🧠 5+ years of experience in software development  
-- 💼 Passionate about building impactful apps  
-- ☕ Coffee + coding is my daily routine  
-- 🌐 Portfolio: **https://mohammedalojile.com**
+* I write **clean, maintainable code** that scales as projects grow.
+* I care about **performance** and prioritize smooth, fast user experiences.
+* I build with a long-term mindset — stable architecture, modular design, and clarity.
+* I think in terms of **systems**, not just screens or endpoints.
+* I continuously explore modern tools, frameworks, and best practices.
+
+---
+
+## 🌍 A Bit About Me
+
+* 🇱🇾 Based in Libya
+* 🧠 5+ years in software development
+* 💼 Focused on impactful, real-world applications
+* ☕ Fueled by coffee and curiosity
+* 🌐 Portfolio: **[https://mohammedalojile.com](https://mohammedalojile.com)**
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Website: **mohammedalojile.com**  
-- 📧 Email: *your email here*  
-- 💼 LinkedIn: *your link here*
+* 🌐 Website: **mohammedalojile.com**
+* 📧 Email: *contact@mohammedalojiledev.com*
+* 💼 LinkedIn: *https://www.linkedin.com/in/mohammed-alojile-708a36100*
 
 ---
 
-Thanks for visiting my profile! 😊  
-Feel free to follow, connect, or explore my work.
+Thanks for stopping by!
+Feel free to explore my work, connect, or reach out anytime. 😊
+
+---
+
+
