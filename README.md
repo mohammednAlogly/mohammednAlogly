@@ -15,12 +15,17 @@ My work blends strong mobile engineering skills with backend expertise. I’m co
 
 ## 🌟 What I Do Well
 
-* 📱 **iOS Development** — Swift, SwiftUI, UIKit
-* 🚀 **Flutter Development** — Dart, State Management, Clean Architecture
-* 🧱 **Software Architecture** — MVVM, Modularization, scalable app structures
-* 🛠 **Backend Development** — Laravel, Livewire, Node.js
-* 🗺 **Maps & Location Services** — Google Maps, geolocation, calculations
-* 🔧 **Performance Optimization, Debugging & Code Quality**
+📱 iOS Development — Swift, SwiftUI, UIKit, Combine, async/await, RESTful APIs, concurrency management, app lifecycle, local storage (Core Data, UserDefaults), notifications, deep links, and deployment workflows.
+
+🚀 Flutter Development — Dart, Clean Architecture, Riverpod/Bloc state management, custom UI components, animations, multi-module project structures, Firebase integrations, and cross-platform performance tuning.
+
+🧱 Software Architecture — MVVM, Modularization, dependency injection, SOLID principles, clean code practices, scalable folder structures, reusable components, system design thinking, and end-to-end app planning.
+
+🛠 Backend Development — Laravel, Livewire, Node.js, REST API development, authentication flows, database design (MySQL), caching, queues, server optimization, and building production-ready backend systems.
+
+🗺 Maps & Location Services — Google Maps SDK, geolocation, routes & directions, rendering custom markers, geofencing, distance calculations, polygons, polylines, and map performance optimization.
+
+🔧 Performance Optimization, Debugging & Code Quality — profiling, memory leak detection, build optimization, structured logging, crash analysis, refactoring, maintaining large codebases, and ensuring smooth UX on both iOS and Android.
 
 ---
 
