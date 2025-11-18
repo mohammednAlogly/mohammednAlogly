@@ -11,7 +11,7 @@ My work blends strong mobile engineering skills with backend expertise. I’m co
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/libya/mohammednAlogly.svg)](https://user-badge.committers.top/libya/mohammednAlogly)
+[![committers.top badge](https://user-badge.committers.top/libya_private/mohammednAlogly.svg)](https://user-badge.committers.top/libya_private/mohammednAlogly)
 
 ## 🌟 What I Do Well
 
