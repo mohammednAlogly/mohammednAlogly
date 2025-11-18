@@ -37,10 +37,10 @@ My work blends strong mobile engineering skills with backend expertise. I’m co
 ## 🌍 A Bit About Me
 
 * 🇱🇾 Based in Libya
-* 🧠 5+ years in software development
+* 🧠 7+ years in software development
 * 💼 Focused on impactful, real-world applications
 * ☕ Fueled by coffee and curiosity
-* 🌐 Portfolio: **[https://mohammedalojile.com](https://mohammedalojile.com)**
+
 
 ---
 
