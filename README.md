@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Mohammed Alojile
 
-### **Mobile Software Engineer • iOS & Flutter • Full-Stack Developer**
+### **Mobile Software Engineer | iOS & Cross-Platform Solutions**
 
 I’m a mobile application engineer from **Libya** who enjoys building well-crafted, reliable, and thoughtfully designed mobile applications. I work primarily with **Swift**, **SwiftUI**, and **Flutter**, focusing on delivering seamless user experiences backed by clean and scalable architecture.
 
